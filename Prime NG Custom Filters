@@ -1,0 +1,1 @@
+this.appVerificationTable.filters['status'] = [{ value: 'Approved', matchMode: 'notContains', operator: 'and' }];
